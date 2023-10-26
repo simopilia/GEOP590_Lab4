@@ -1,5 +1,5 @@
+numpy==1.20.0
 Python==3.9.0
-numpy
 obspy
 seislib
 matplotlib
