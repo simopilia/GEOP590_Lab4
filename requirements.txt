@@ -1,5 +1,2 @@
-numpy
-obspy
 seislib
-matplotlib
-scipy
+
